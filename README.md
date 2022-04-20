@@ -1,13 +1,12 @@
-  A bit about me:
+  <h2>A bit about me:</h2>
   
-- I’m currently studying full-stack software development.
+:electron: I’m currently studying full-stack software development.
 
-- I have been hard at work learning JavaScript, Node.js, Mongoose/MongoDB, HTML, CSS/Bootstrap, and much more!
+:nerd_face:	 I have been hard at work learning JavaScript, Node.js, Mongoose/MongoDB, HTML, CSS/Bootstrap, and much more! 
 
-- 📫 Ways to reach me: 
-- Email - zacrgamble@gmail.com
-- LinkedIn - 
-- Phone - 208-921-8351
+🥇 I am passionate about learning and finding opportunities for personal and professional growth.
+
+📫 Ways to reach me: Email * zacrgamble@gmail.com * LinkedIn * Phone - 208-921-8351
 
 <!---
 ZacGamble/ZacGamble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
