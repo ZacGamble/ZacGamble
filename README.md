@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ZacGamble
-- 👀 I’m interested in creating computer applications.
-- 🌱 I’m currently learning JavaScript, Node.js, Mongoose/MongoDB, HTML, CSS/Bootstrap, and much more!
-- 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: 
+  A bit about me:
+  
+- I’m currently studying full-stack software development.
+
+- I have been hard at work learning JavaScript, Node.js, Mongoose/MongoDB, HTML, CSS/Bootstrap, and much more!
+
+- 📫 Ways to reach me: 
 - Email - zacrgamble@gmail.com
-- Linkdin - 
+- LinkedIn - 
 - Phone - 208-921-8351
 
 <!---
