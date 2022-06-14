@@ -6,9 +6,9 @@
 
 🥇 I am passionate about learning and finding opportunities for personal and professional growth.
 
-📫 Ways to reach me: 
-    Email - zacrgamble@gmail.com 
-    LinkedIn - https://www.linkedin.com/in/zac-gamble/ 
+📫 Ways to reach me: <br>
+    Email - zacrgamble@gmail.com <br>
+    LinkedIn - https://www.linkedin.com/in/zac-gamble/ <br>
     Phone - 208-921-8351
 
 <!---
