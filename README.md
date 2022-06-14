@@ -6,7 +6,10 @@
 
 🥇 I am passionate about learning and finding opportunities for personal and professional growth.
 
-📫 Ways to reach me: Email * zacrgamble@gmail.com * LinkedIn * Phone - 208-921-8351
+📫 Ways to reach me: 
+    Email - zacrgamble@gmail.com 
+    LinkedIn - https://www.linkedin.com/in/zac-gamble/ 
+    Phone - 208-921-8351
 
 <!---
 ZacGamble/ZacGamble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
