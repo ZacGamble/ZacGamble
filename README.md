@@ -1,8 +1,8 @@
   <h2>A bit about me:</h2>
   
-:electron: I’m currently studying full-stack software development.
+:electron: I’m currently working as a full-stack software engineer.
 
-:nerd_face:	 I have been hard at work learning JavaScript, Node.js, Mongoose/MongoDB, HTML, CSS/Bootstrap, and much more! 
+:nerd_face:	 I have been hard at work learning PHP, JavaScript, Node.js, Mongoose/MongoDB, HTML, CSS/Bootstrap, and much more! 
 
 🥇 I am passionate about learning and finding opportunities for personal and professional growth.
 
