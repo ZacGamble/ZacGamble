@@ -7,8 +7,8 @@ I'm building websites, apps, and automations.
 
 
 # Projects:
-[](https://zacdevstory.com/)
-[slop-stopper](https://zacdevstory.com/slop-stopper)
+[zacdevstory.com](https://zacdevstory.com/)\
+[slop-stopper](https://zacdevstory.com/slop-stopper)\
 [Your Relationship Diagnosis](https://yourrelationshipdiagnosis.com/)
 
 
